@@ -54,6 +54,7 @@ header .logo {
 .logo-image {
   display: flex;
   width: 200px;
+  height: 160px;
   background: linear-gradient(to right, #99fda2, #02ccff);
   margin: 5rem auto 10rem;
   background-clip: text;
