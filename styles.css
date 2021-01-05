@@ -57,9 +57,9 @@ header .logo {
   height: 160px;
   background: linear-gradient(to right, #99fda2, #02ccff);
   margin: 5rem auto 10rem;
-  background-clip: text;
+  /* background-clip: text;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent; */
   /* -webkit-box-reflect: below 1px linear-gradient(transparent,#0005); */
 }
 .logo-image i {
