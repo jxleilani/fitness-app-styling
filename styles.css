@@ -30,6 +30,7 @@ header .logo {
   top: 15px;
   left: 10px;
   background: linear-gradient(to right, #99fda2, #02ccff);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 2.5rem;
